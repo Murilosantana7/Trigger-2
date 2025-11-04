@@ -15,6 +15,7 @@ HEADERS = {
 WORKFLOWS = [
     {"repo": "QueueListLog", "workflow": "queuelistsp5.yaml"},
     {"repo": "Base-Pending", "workflow": "main_expedicao.yaml"},
+    {"repo": "Base-Handeover", "workflow": "main_expedicao.yaml"},
 ]
 
 # Rota principal para verificar se o app está no ar
