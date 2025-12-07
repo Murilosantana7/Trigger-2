@@ -18,6 +18,7 @@ WORKFLOWS = [
     {"repo": "Base-Handeover", "workflow": "main_expedicao.yaml"},
     {"repo": "Base_3PL", "workflow": "main_expedicao.yaml"},
     {"repo": "base_transporting", "workflow": "main_base_to_Transporting.yaml"},
+    {"repo": "QueueListLog", "workflow" : "queuelistsp5.yaml"},
 ]
 
 # Rota principal para verificar se o app está no ar
